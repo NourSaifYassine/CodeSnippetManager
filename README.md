@@ -14,10 +14,10 @@ add: Add a new snippet by providing a title, description, language, and tags.
 
 list: List all existing snippets with their relevant information.
 
-search <tag>: Search for snippets using a specific tag.
+search <tag>: Search for snippets using a specific tags.
 
-delete <id>: Delete a snippet by providing its ID.
+delete <id>: Delete a snippet by providing its tags.
 
-edit <id>: Edit a snippet by specifying its ID.
+edit <id>: Edit a snippet by specifying its tags.
 
 To run the code type in the following command: `node index.js <command>`
