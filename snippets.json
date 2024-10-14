@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "print(Hello WOrld)",
+    "description": "hello",
+    "language": "Py",
+    "tags": [
+      "Python"
+    ],
+    "code": "print('hello world')"
+  }
+]
