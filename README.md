@@ -16,8 +16,8 @@ list: List all existing snippets with their relevant information.
 
 search <tag>: Search for snippets using a specific tags.
 
-delete <id>: Delete a snippet by providing its tags.
+delete <id>: Delete a snippet by providing its id.
 
-edit <id>: Edit a snippet by specifying its tags.
+edit <id>: Edit a snippet by specifying its id.
 
 To run the code type in the following command: `node index.js <command>`
